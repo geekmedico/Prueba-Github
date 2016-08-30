@@ -9,5 +9,6 @@
     <Grid>
         <Label Content="esta etiqueta la puse en la laptop"></Label>
         <TextBox Text="esta caja la puse en laptop antes de cargar la etiqueta del escritorio"></TextBox>
+        <Label Content="Esta etiqueta la puse en el escritorio"></Label>
     </Grid>
 </Window>
