@@ -8,5 +8,6 @@
         Title="MainWindow" Height="350" Width="525">
     <Grid>
         <Label Content="Prueba en laptop"/>
+        <Button Content="Prueba"/>
     </Grid>
 </Window>
