@@ -9,5 +9,6 @@
     <Grid>
         <Label Content="Prueba en laptop"/>
         <Button Content="Prueba"/>
+        <Label Content="prueba 2"></Label>
     </Grid>
 </Window>
