@@ -8,5 +8,6 @@
         Title="NuevaVentana" Height="300" Width="300">
     <Grid>
         <Label Content="esta etiqueta la puse en la laptop"></Label>
+        <Label Content="Esta etiqueta la puse en el escritorio"></Label>
     </Grid>
 </Window>
